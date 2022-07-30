@@ -1,0 +1,8 @@
+.item {
+  border: 1px solid black;
+  background-color: lightgoldenrodyellow;
+}
+
+.complete {
+  background-color: lightpink;
+}
